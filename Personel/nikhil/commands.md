@@ -1,3 +1,4 @@
+<<<<<< nikhil
 cal - it shows the calender
 date - it shows date and time
 banner - it prints the banner format
@@ -23,4 +24,4 @@ rm - removes files
 mkdir - make directory
 rmdir - removes directory
 pwd - present working directory
-cd - change directory
+cd -change directory
