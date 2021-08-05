@@ -1,0 +1,26 @@
+cal-it shows the calender
+date-it shows the date and time 
+banner-it prints in banner format
+figlet-it prints in ascil lines format
+who-its shows the currently loged in user
+whoami-it shows the user  name
+ls-list the content the directory
+which-it shows the executables filelocations
+find-finds the file or directorys onperticular location
+man-show the manual about the command
+info-information about command
+du-disk usage
+df-disk free
+su-switch user/super user
+sudo-root permission
+clear-clears the screen
+exit-exit from the shell
+touch-create the empty file
+cat-create and edit the files
+cp-copy files from sourse to destination
+mv-renames and moves file from from sourse destination
+mkdir-make a new directoty
+rm-removes files
+rmdir-removes the directory
+pwd-present working directory
+cd-change directory 
