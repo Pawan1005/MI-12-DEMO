@@ -23,4 +23,4 @@ rm - removes files
 mkdir - make directory
 rmdir - removes directory
 pwd - present working directory
-cd - change the directory
+cd - change directory
