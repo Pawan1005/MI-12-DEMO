@@ -1,26 +1,27 @@
-cal -It shows the calender
-date -It shows date and time
-banner -It prints in banner format
-figlet -It prints in ascii lines format
-who -It lists the currently logged in users
-whoami -Username of currently logged in user
-ls -It lists the content of directory
-which -It shows the executable file location
-find -It finds the file or directory on particular location
-man -It shows the manual about commands
-info -It shows the info about commands
-du -disk usage
-df -disk free
-su -switch user
-sudo -root permission
-clear -clears the screen shell
-exit -exit from the shell
-touch -creates the empty file
-cat -Creates and edits files
-cp -Copies files from source to destination
-mv -renames and moves files from source to destination
-rm -removes files
-mkdir -make directory
-rmdir -removes directory
-pwd -present working directory
+<<<<<< nikhil
+cal - it shows the calender
+date - it shows date and time
+banner - it prints the banner format
+figlet - it  prints the ascii times format
+who - it lists the currently loggedin users
+whoami - username of currently logged in user
+ls - it lists the content of directory
+which - it shows the executable file name
+find - finds the file or directories on particular location
+man - shows the manual about commands
+info - shows the info about commands
+du - disk usage 
+df - disk free
+su - switch user/ super user
+sudo - root permission
+clear - clears the screen
+exit - exit from the shell
+touch - creates the empty file
+cat - creates and edites files
+cp - copies from source to destination
+mv - renames and moves files from source to destination
+rm - removes files
+mkdir - make directory
+rmdir - removes directory
+pwd - present working directory
 cd -change directory
