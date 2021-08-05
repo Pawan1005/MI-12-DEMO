@@ -1,3 +1,4 @@
+
 cal - it shows the calender
 date - it shows date and time
 banner - it prints in banner format
