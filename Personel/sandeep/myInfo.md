@@ -5,7 +5,7 @@ I have completed MCA.
 
 
 hungry=input("are you hungry")
-if hungry=="yes":
+if hungry=="yes"&& hungry=="y":
 	print("Eat samosha")
 else:
 	print("do homework")
