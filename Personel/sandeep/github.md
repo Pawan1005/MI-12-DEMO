@@ -15,7 +15,7 @@ Github is a website for developers and programmers colaborately work on coded.
 The primary benifits of Github is its version control system, which allows for seemless collaboration with compromising the integrity of the original project.
 
 Git commands:-
-1. Git config
+1.Git config
 git config -global user.name "name"
 git config -global user.email "email"
 
