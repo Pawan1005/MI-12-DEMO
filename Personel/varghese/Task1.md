@@ -1,61 +1,28 @@
-Git Hub is a distributed version control system
+What Is Git? 
+  Git is a specific open-source version control system created by Linus Torvalds in 2005. Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
 
-*And git hub provides lots of command to upload files.
+    Git commands:
+    
+    sudo apt install git-all : installing git
 
-*Through github we can do many work like pull request,puss the file etc.
+    git --version : chack for which version is installed in pc
 
-*The main thing is is it is opensourse.
+    git config --globle user.name "git user name" : configer user name
 
-*any one can use github and make implimention.
+    git config --globle user.Email "Email" : set email
 
-HERE IS THE  COMMANDS ARE:-
+    git clone : used for cloning the repositery
 
-LS-list the content the directory.
+    git branch :creating new branch
 
-WHICH-it shows the executables file locations.
+    git status : check the status of git
 
-FIND-finds the file and directory.
+    git checkout :changing branch
 
-MAN-shows the manual about commands.
+    git add : adding the file/connent in git
 
-INFO-information about commands.
+    git commit : save changes in git
 
-DU-disk usage.
+    git push: push content in git
 
-DF-disk free.
 
-SU-switch user.
-
-SUDO-root permissions.
-
-CLEAR-clears the screen.
-
-EXIT-exit from the shell.
-
-TOUCH-create the empty file.
-
-CAT-creates and edits the file.
-
-CP-copy the file.
-
-MV-move the file from one to annathor.
-
-MKDIR-make a directory.
-
-RM-removes files.
-
-RMDIR-remove  hole directory.
-
-PWD-present working directory.
-
-CD-change directory.
-
-GIT ADD . -its modify the all file unstaged area to staged area.
-
-GIT COMMIT -M -it used for commit the files.
-
-GIT PUSH ORIGIN MASTER-this commands is used for push the command the to our branch.
-
-GIT BRANCH (BRANCH_NAME)-it created a branch.
-
-ETC....
