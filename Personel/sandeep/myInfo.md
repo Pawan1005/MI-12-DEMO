@@ -9,3 +9,5 @@ if hungry=="yes"&& hungry=="y":
 	print("Eat samosha")
 else:
 	print("do homework")
+	
+	print("Hello world"
