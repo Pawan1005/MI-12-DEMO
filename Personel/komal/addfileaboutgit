@@ -1,0 +1,33 @@
+what is git ?
+git is a type of version control system that makes it easier to track changes in files.
+for example, when you edit a  file, git can help you detemine exactly what changes,
+who change it, and why. ...many software developer use git daily, and understanding
+how to use git daily, and understanding how to use it can gave major boost to your resume.
+
+what is Github ?
+Github is provider of intenet hosting for software development and version control using
+git. it offers the distributed version control and source code management functionality
+of git, plus its own features. social coding by providing a web interface to the Git code
+repository and management tools for collaborating. Github can be thought of as a serious 
+social networking site for software developers.
+
+Github commands 
+1.git config
+2.git init
+3.git clone
+4.git add
+5.git commit
+6.git diff
+7.git reset
+8.git status
+9.git rm 
+10.git log
+11.git show
+12.git tag
+13.git branch
+14.git checkout
+15.git merge
+16.git remote
+17.git push
+18.git pull
+19.git stash
